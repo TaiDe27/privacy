@@ -1,2 +1,2 @@
-# policy
-policy
+# privacy
+privacy
